@@ -20,6 +20,14 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   <img src="https://img.shields.io/badge/crg1050@gmail.com-EA4335?style=flat&logo=crg1050@gmail.com&logoColor=white" />
 </div>
+
+<br>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieun419&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=jieun419&show_icons=true">
+</div>
+
+
 <!---
 jieun419/jieun419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
