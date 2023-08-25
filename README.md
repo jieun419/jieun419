@@ -1,7 +1,6 @@
 <div align="center">
 	<h1>👋 안녕하세요! 👋</h1>
 </div>
-
 <div align="center">
   	<h4>🌱 learning</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
