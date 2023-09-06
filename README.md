@@ -32,7 +32,9 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieun419&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=jieun419&show_icons=true">
 </div>
+<br>
 
+![Desktop - 7 (1)](https://github.com/jieun419/jieun419/assets/109754988/f4b2913f-ffef-439f-b6a3-659a9d243cc2)
 
 <!---
 jieun419/jieun419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
