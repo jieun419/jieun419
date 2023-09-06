@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>👋 안녕하세요! 👋</h1>
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109754988/266089994-9f58ae25-1db5-4263-b867-36e08f89aefb.jpg" />
 </div>
 <div align="center">
   	<h4>🌱 learning</h4>
