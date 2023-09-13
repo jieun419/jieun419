@@ -1,7 +1,13 @@
 <div align="center">
 	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109754988/266089994-9f58ae25-1db5-4263-b867-36e08f89aefb.jpg" />
 </div>
+
+<br>
 <div align="center">
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D3D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+<div align="center">	
   	<h4>🌱 learning</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />	
@@ -32,7 +38,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieun419&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=jieun419&show_icons=true">
 </div>
-<br>
 
 ![Desktop - 7 (1)](https://github.com/jieun419/jieun419/assets/109754988/f4b2913f-ffef-439f-b6a3-659a9d243cc2)
 
