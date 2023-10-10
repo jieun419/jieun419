@@ -3,6 +3,11 @@
 </div>
 
 <br>
+<div align="center">
+	<a href="https://jieun-portfolio.vercel.app" target="_blank" title="바로가기(새창)">✨ 지은의 포트폴리오 보기 ✨</a>
+</div>
+
+<br>
 <div align="center">	
   	<h4>🌱 learning</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
