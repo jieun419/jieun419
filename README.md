@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-	<a href="https://jieun-portfolio.vercel.app" target="_blank" title="바로가기(새창)"><h3>✨ 지은의 포트폴리오 보기 ✨</h3></a>
+	<h3><a href="https://jieun-portfolio.vercel.app" target="_blank" title="바로가기(새창)">✨ 지은의 포트폴리오 보기 ✨</a></h3>
 </div>
 
 <br>
