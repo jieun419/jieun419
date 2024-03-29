@@ -1,16 +1,14 @@
 <div align="center">
 	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109754988/266089994-9f58ae25-1db5-4263-b867-36e08f89aefb.jpg" />
 </div>
-
-<br>
 <div align="center">
 	
-		낯선 기술에도 포기하지 않기, 역지사지 마인드로 사용자 중심 개발하기
+		낯선 기술에도 포기하지 않고 도전하기, 역지사지 마인드로 사용자 중심 개발하기
 	
 </div>
 
 <div align="center">
-	<a href="https://jieun-portfolio.vercel.app" target="_blank" title="바로가기(새창)">✨ 지은의 포트폴리오 보기 ✨</a>
+	<a href="https://jieun-portfolio.vercel.app" target="_blank" title="바로가기(새창)"><h3>✨ 지은의 포트폴리오 보기 ✨</h3></a>
 </div>
 
 <br>
